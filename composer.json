@@ -1,0 +1,18 @@
+{
+    "name": "kyoushu/asset-installer-bundle",
+    "description": "A bundle for copying vendor assets (e.g. images, webfonts) into the web directory",
+    "license": "GPL v2",
+    "authors": [
+        {
+            "name": "Kyoushu",
+            "email": "kyoushu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": { "Kyoushu\\AssetInstallerBundle": "src/Kyoushu/AssetInstallerBundle" }
+    },
+}

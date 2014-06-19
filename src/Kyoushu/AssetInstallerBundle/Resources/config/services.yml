@@ -1,0 +1,6 @@
+parameters:
+#    kyoushu_asset_installer.example.class: Kyoushu\AssetInstallerBundle\Example
+
+services:
+    kyoushu_asset_installer.installer:
+        class: Kyoushu\AssetInstallerBundle\Installer
